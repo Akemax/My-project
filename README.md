@@ -1,0 +1,2 @@
+# Myproject
+ Game for buddies
